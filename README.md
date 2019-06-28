@@ -1,0 +1,2 @@
+# TrueTears_Extract_Image
+galgame游戏真实之类图片CRXG提取代码
